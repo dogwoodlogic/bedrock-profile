@@ -1,5 +1,10 @@
 # bedrock-profile ChangeLog
 
+## 11.0.0 - TBD
+
+### Changed
+- **BREAKING**: Refactor use of KMS system. Remove KMS related parameters from
+  some public APIs. The KMS is now configured via the bedrock config.
 
 ## 10.2.0 - TBD
 
